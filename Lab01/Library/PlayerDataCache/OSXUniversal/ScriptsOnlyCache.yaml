@@ -822,4 +822,4 @@ ScriptsOnlyBuild:
   platform: 2
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: /Users/claraclyra/Desktop/Game Dev/IntroGame/Lab01/build.app
+  playerPath: /Users/claraclyra/Desktop/Game Dev/IntroGame/build/build.app
